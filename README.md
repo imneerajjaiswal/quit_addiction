@@ -4,7 +4,6 @@
 
 <img src="./Readme_images/img!.png" alt="Image 1" width="200" height="auto" >
 <br>
-<br>
 <img src="./Readme_images/img2.png" alt="Image 2" width="200" height="auto">
 
 
