@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:quite_addiction/screen/Home_Page.dart';
 
 void main() {
-  runApp(const NOFAP());
+  runApp(const QUITADDICTION());
 }
 
-class NOFAP extends StatelessWidget {
-  const NOFAP({super.key});
+class QUITADDICTION extends StatelessWidget {
+  const QUITADDICTION({super.key});
 
   @override
   Widget build(BuildContext context) {
