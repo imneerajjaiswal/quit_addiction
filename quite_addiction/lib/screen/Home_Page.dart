@@ -138,7 +138,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         backgroundColor: Colors.grey.shade700,
         title: Text(
-          'Quite Addiction',
+          'Quit Addiction',
           style: TextStyle(
               fontSize: 22,
               fontFamily: GoogleFonts.shadowsIntoLight().fontFamily,
@@ -321,7 +321,6 @@ class _HomePageState extends State<HomePage> {
                                                 minutes = 0;
                                                 hours = 0;
                                                 days = 0;
-                                                
                                               });
                                             }
                                           },
